@@ -1,0 +1,30 @@
+.form-check-inline {
+    text-align: center;
+    background: #f1f1f1;
+    border: 1px solid #d7d7d7;
+    padding: 5px 20px;
+    border-radius: 4px;
+    width: 30%;
+}
+.form-check-inline .form-check-input {
+    position: static;
+    margin-top: 0;
+    margin-right: .3125rem;
+    margin-left: 0;
+}
+.btn-google {
+    background: #cf4332;
+    margin-left: 4px;
+}
+.btn-facebook, .btn-google {
+    border-radius: 2px;
+    color: #fff;
+    width: 50%;
+}
+.btn-facebook {
+    background: #3c66c4;
+    margin-right: 4px;
+}
+.login-social {
+    display: flex;
+}

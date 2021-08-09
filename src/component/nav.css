@@ -1,0 +1,49 @@
+.choose-course .form-control {
+    border-radius: 2px;
+    border: 1px solid #0056d2;
+    color: #0056d2;
+}
+.search-cources {
+    position: relative;
+    width: 30%;
+    margin-right: 40px;
+}
+.search-cources .form-control {
+    padding-right: 52px;
+    border-radius: 2px;
+    border: 1px solid #badfed;
+}
+.navbar-light .navbar-toggler {
+    color: #00000080;
+    border-color: #0000001a;
+}
+.navbar {
+    border-bottom: 1px solid #7fcad5;
+    border-radius: 0;
+}
+.choose-course {
+    margin-right: 15px;
+}
+.login-btns .btn {
+    border-radius: 2px;
+    margin-left: 4px;
+    min-width: 96px;
+    font-size: 14px;
+    min-height: 42px;
+}
+.alert-primary {
+    margin-bottom: 0;
+    border-radius: 2px;
+    text-align: center;
+    color: #0056d2;
+    background-color: #d6edf6;
+    border-color: #d6edf6;
+}
+.alert-dismissible .close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 2;
+    padding: .75rem 1.25rem;
+    color: inherit;
+}

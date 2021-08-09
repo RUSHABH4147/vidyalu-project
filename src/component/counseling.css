@@ -1,0 +1,50 @@
+.col-md-4 {
+  flex: 0 0 33.3333333333%;
+  max-width: 33.3333333333%;
+}
+.counseling-box {
+  position: relative;
+  overflow: hidden;
+  border-radius: 6px;
+  margin: 15px 0;
+}
+.counseling-img img {
+  width: 100%;
+}
+.counseling-by {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(1turn, #000000bf, #000000bf 36%, #0000);
+  width: 100%;
+  color: #fff;
+  padding: 20px 15px 15px;
+}
+img,
+svg {
+  vertical-align: middle;
+}
+.counseling-text h5 {
+  font-size: 15px;
+  color: #ff8b01;
+  font-weight: 700;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.counseling-text h6 {
+  font-size: 13px;
+  color: #fff;
+}
+.counseling-person {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.counseling-person img {
+    width: 100%;
+    height: 100%;
+}
